@@ -31,10 +31,12 @@ header{
 .first{
     font-family:monospace;
     float:left;
-    margin-left:5.1%;
-    width:15%;
+    font-size:0.9vw;
+    margin-left:3.9%;
+    width:20%;
     display: block;
-    margin-bottom:1.12%
+    margin-top:2%;
+    margin-bottom:1.1%;
 }
 .first li{
     display: block;
@@ -78,14 +80,14 @@ header{
    
 }
 .company{
-    margin-bottom: -0.9%;
+    margin-bottom: -0.8%;
    position: relative;
     margin-left:-0.1%;
-    font-size:1.3vw;
+    font-size:1.5vw;
     color:white;
-    background:black;
-    width:20.4%;
-    padding-left:6%;
+    background:darkgrey;
+    width:24.4%;
+    padding-left:2%;
     padding-top:2.5%;
     padding-bottom: 1.0%;
 }
@@ -93,9 +95,8 @@ header{
     background:#4286f4;
     display:block;
     width:99%;
-    padding-top:52%;
+    padding-top:55%;
     text-align:right;
-    
 }
 .button2{
     background:green;
@@ -163,7 +164,7 @@ header{
     background:orange;
     color:white;
    padding-left:6.1%;
-    padding-right:50%;
+    padding-right:15%;
     padding-bottom: 4%;
     font-size: 1.5vw;
     margin-top:2%;
@@ -311,3 +312,15 @@ h1{
     margin-left:3%;
     display: block;
 }
+.aerostat{
+    margin-bottom:8%;
+    font-size:1.1vw;
+    font-style:italic;
+}
+.aerostat2{
+    font-size:0.94vw;
+    font-style:oblique;
+}
+.comfort{
+    margin-left: 15%;
+}  
